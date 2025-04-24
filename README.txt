@@ -1,0 +1,3 @@
+These are programs based around basic encryption algorithms, the Caesar Cipher and the Vigenère Cipher. These Ciphers are no longer used in actual security because they are so known. These programs contain the basic functions to work their purpose, they do not contain user validation or error checking. Feel free to improve upon my designs or use these as a base to create programs for other ciphers.
+
+Programs written by: Benjamin Tallman
